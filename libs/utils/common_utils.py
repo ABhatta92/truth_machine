@@ -7,7 +7,6 @@ import seaborn as sns
 
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
-from delta import configure_spark_with_delta_pip
 
 os.environ["PYSPARK_PYTHON"] = os.environ["PYSPARK_DRIVER_PYTHON"] = r"D:\python_projects\world_info\venv\Scripts\python.exe"
 
