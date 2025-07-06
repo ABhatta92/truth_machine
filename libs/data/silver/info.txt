@@ -1,0 +1,6 @@
+Here we will do the bulk of the transformations.
+- Selecting, renaming and type casting columns
+- Removing nulls
+- Any other required transformations (where clauses, for example)
+Much of these other transformations, if required, will be specific to the particular attribute we're dealing with.
+For example, if we want to create age brackets from an age attribute then that will happen between bronze and silver.

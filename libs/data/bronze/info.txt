@@ -1,0 +1,1 @@
+Here we will keep raw data in columnar (parquet) format. Minimal processing.

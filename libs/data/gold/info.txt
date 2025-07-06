@@ -1,0 +1,4 @@
+This layer will hold analysis-ready data
+- Joins
+- Aggregations
+We will use this layer for querying and creating dashboards
